@@ -1,17 +1,27 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Artem Zelenkevich ==========================================================================================================================================
+```
+Artem@github
+----------------------
+OS: Developer Edition
+Host: -
+Location: Minsk, Belarus
+Title: Backend developer
+Editor: VS Code
+Languages: Python | Git | Linux | Prompt engineering
+Learning: JavaScript, Node.js, Docker
+Uptime: Always coding ☕
+```
 
-Backend Developer
------------------
+## 💡 About
 
-I’ve been learning Python for 3 years and still learning it. My first programming language is C# and HTML/CSS. Now I’m learning Python with some Backend tools.
-* 🌍  I'm based in Minsk 
-* 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/artem-zelenkevich-2b898a3b0?utm_source=share_via&utm_content=profile&utm_medium=member_ios) 
-* ✉️  You can contact me at [zelenkevichwork@gmail.com](mailto:zelenkevichwork@gmail.com) 
-* 👥  I'm looking to collaborate on Interesting projects
+Hello, World! I'm a young backend developer obsessed with performance and efficiency. I specialize in handling data flows and configuring server logic. Currently running an intense learning loop: exploring new backend frameworks, building projects, and continuously pushing my technical boundaries.
 
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a> </p>
- 
-### Socials
+## 📊 Stats
 
-<p align="left"> <a href="https://www.github.com/Akkikre" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/akkikre" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.threads.net/@karuxado" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/artem-zelenkevich-2b898a3b0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.twitch.tv/akkikree" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" title="Twitch" /> </picture> </a></p>
-<a href="https://www.twitch.tv/akkikree" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/akkikre?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akkikre&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+## 📫 Connect
+
+- 📧 [Email](mailto:zelenkevichwork@gmail.com)
+- 𝕏 [Twitter](https://twitter.com/akkikre)
+- 💼 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/artem-zelenkevich-2b898a3b0/)
+- 🐙 [GitHub](https://github.com/Akkikre)
