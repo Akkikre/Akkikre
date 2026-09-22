@@ -15,10 +15,6 @@ Uptime: Always coding ☕
 
 Hello, World! I'm a young backend developer obsessed with performance and efficiency. I specialize in handling data flows and configuring server logic. Currently running an intense learning loop: exploring new backend frameworks, building projects, and continuously pushing my technical boundaries.
 
-## 📊 Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akkikre&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
 ## 📫 Connect
 
 - 📧 [Email](mailto:zelenkevichwork@gmail.com)
